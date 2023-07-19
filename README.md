@@ -1,8 +1,8 @@
 - 👋 Hi, I’m a hobby developer, and scientist. I work on random projects in my free time.
 - 👀 I’m interested in nonlinear optics, optical materials and database development.
 - 🌱 I’m currently learning a deep learning.
-- 💞️ I’m looking to collaborate on an optical materials database.
-- 📫 You can reach me by <a href="mailto:infoptics@gmail.com">mail</a>.
+- 💞️ I’m looking to collaborate on optical materials databases.
+- 📫 Please reach me by <a href="mailto:infoptics@gmail.com">mail</a>.
 
 <!---
 lanskiy/lanskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,100 +12,46 @@ You can click the Preview link to take a look at your changes.
 <h2>Technologies</h2>
 <table>
   <tbody>
-    <!--
-    <tr>
-    <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="icon" width="40" height="40" /></a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="40" height="40" /></a>
-      <br>jQuery
-    </td>
-    <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="40" height="40" /></a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="icon" width="40" height="40" /></a>
-      <br>C#
-    </td>
-    <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" alt="icon" width="40" height="40" /></a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" alt="icon" width="40" height="40" /></a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=latex" alt="icon" width="40" height="40" /></a>
-      <br>LaTeX
-    </td>
-    <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" alt="icon" width="40" height="40" /></a>
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="40" height="40" /></a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="icon" width="40" height="40" /></a>
-      <br>Git
-    </td>
-  </tr>
-    -->
     <tr>
       <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="icon" width="40" height="40" /></a>
-        <br>HTML
+        <a href="https://skillicons.dev"><img title="HTML" src="https://skillicons.dev/icons?i=html" alt="icon" width="40" height="40" /></a>
+        <!--<br>HTML-->
       </td>
       <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=latex" alt="icon" width="40" height="40" /></a>
-        <br>LaTeX
+        <a href="https://skillicons.dev"><img title="C#" src="https://skillicons.dev/icons?i=cs" alt="icon" width="40" height="40" /></a>
       </td>
       <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="icon" width="40" height="40" /></a>
-        <br>C#
+        <a href="https://skillicons.dev"><img title="Java" src="https://skillicons.dev/icons?i=java" alt="icon" width="40" height="40" /></a>
       </td>
       <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" alt="icon" width="40" height="40" /></a>
-        <br>Java
+        <a href="https://skillicons.dev"><img title="Python" src="https://skillicons.dev/icons?i=py" alt="icon" width="40" height="40" /></a>
       </td>
       <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" alt="icon" width="40" height="40" /></a>
-        <br>Python
+        <img title="Wolfram Mathematica" src="https://camo.githubusercontent.com/fec8f4849e9826b249e7ea74bb21eab128bacd2e318dddca77e9bd05848ac87e/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f363330383030302f313839363632302f39336461393962342d376261622d313165332d393330392d3432363539373539643366352e6a7067" alt="icon" width="40" height="40">
+      </td>
+      <td align="center" width="96">
+        <a href="https://skillicons.dev"><img title="LaTeX" src="https://skillicons.dev/icons?i=latex" alt="icon" width="40" height="40" /></a>
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="40" height="40" /></a>
-        <br>Bootstrap
+        <a href="https://skillicons.dev"><img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="40" height="40" /></a>
       </td>
       <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="40" height="40" /></a>
-        <br>jQuery
+        <a href="https://skillicons.dev"><img title="jQuery" src="https://skillicons.dev/icons?i=jquery" alt="icon" width="40" height="40" /></a>
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="40" height="40" /></a>
-      <br>MySQL
+        <a href="https://skillicons.dev"><img title="MySQL" src="https://skillicons.dev/icons?i=mysql" alt="icon" width="40" height="40" /></a>
     </td>
     </tr>
   <tr>
     <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="icon" width="40" height="40" /></a>
-      <br>Git
+        <a href="https://skillicons.dev"><img title="Git" src="https://skillicons.dev/icons?i=git" alt="icon" width="40" height="40" /></a>
     </td>
     <td align="center" width="96">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" alt="icon" width="40" height="40" /></a>
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://camo.githubusercontent.com/fec8f4849e9826b249e7ea74bb21eab128bacd2e318dddca77e9bd05848ac87e/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f363330383030302f313839363632302f39336461393962342d376261622d313165332d393330392d3432363539373539643366352e6a7067" alt="icon" width="40" height="40">
-      <br>Math
+        <a href="https://skillicons.dev"><img title="Postman" src="https://skillicons.dev/icons?i=postman" alt="icon" width="40" height="40" /></a>
     </td>
   </tr>
 </tbody></table>
